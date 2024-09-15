@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+GA79 | Nhà Cái Dẫn Đầu Xu Thế Cá Cược Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GA79 <https://ga79.mobi/>`_ là thiên đường cá cược hàng đầu VIỆT NAM mang đến cho anh em nhiều trò chơi hấp dẫn Đến với thương hiệu bạn sẽ nhận được tỷ lệ thưởng cao nhất hiện tại !
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Địa Chỉ: 299 Phan Văn Hớn, Street, Quận 12, Hồ Chí Minh 
 
-   This project is under active development.
+Số Điện Thoại: 0797897799
 
-Contents
---------
+Email: contact@ga79.mobi
 
-.. toctree::
+Website: https://ga79.mobi/ 
 
-   usage
-   api
+Hashtags: #ga79 #nhacaiga79 #ga79mobi #trangchuga79
